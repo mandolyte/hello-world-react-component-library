@@ -14,3 +14,5 @@ const value = greetName({name});
 
 <>{value}</>
 ```
+
+*Note: this is a test of the emergency broadcast system*

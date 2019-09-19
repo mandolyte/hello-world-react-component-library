@@ -2,11 +2,11 @@
   "name": "hello-world-react-component-library",
   "version": "0.0.6",
   "license": "MIT",
-  "description": "A Collection of Components for Telling the World Hello.",
-  "homepage": "https://unfoldingword-box3.github.io/hello-world-react-component-library/",
+  "description": "REACT Components for a World Hello.",
+  "homepage": "https://mandolyte.github.io/hello-world-react-component-library/",
   "repository": {
     "type": "git",
-    "url": "https://github.com/unfoldingWord-box3/hello-world-react-component-library"
+    "url": "https://github.com/mandolyte/hello-world-react-component-library"
   },
   "private": false,
   "dependencies": {
